@@ -14,7 +14,7 @@
 ---
 
 <h4 align="center"> 
-	🚧  Google 🚀 Under construction...  🚧
+	🚧  The Surfing Project 🚀 Under construction...  🚧
 </h4> 
 
 ---
@@ -36,7 +36,7 @@ The Surfing Project landing page
 
 ## :sparkles: Features
 
-- :heavy_check_mark: Front-end of the Surfing Project page, commercial web site with mobile version.
+- :heavy_check_mark: Front-end of The Surfing Project page, commercial web site with mobile version.
 
 ## :white_check_mark: Requirements
 
